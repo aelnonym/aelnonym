@@ -1,7 +1,5 @@
 <h3 align="center">A mobile developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose**
-
 - 💬 Ask me about **One Piece**
 
 <h3 align="left">Connect with me:</h3>
